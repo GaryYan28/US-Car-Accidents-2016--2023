@@ -9,6 +9,12 @@
 
 Traffic accidents pose a critical public safety issue and conventional wisdom is that it is particularly risky to drive during adverse conditions like storms or low visibility. However, analysis of the Countrywide Traffic Accident Dataset (Moosavi et al., 2019) reveals some interesting and counterintuitive trends: accidents during clear weather, good visibility, and weekends demonstrate high severity rates. This suggests driver behavior such as speeding or distraction in perceived "safe" conditions may contribute significantly to crash outcomes. Using SQL and data visualization tools, this project identifies these hidden risk factors and challenges traditional assumptions about accident prevention. By transforming raw data into actionable insights, the analysis aims to support more nuanced safety strategies that address complacency, not just obvious hazards.
 
+An interactive Tableau dashboard can be found [here](https://public.tableau.com/views/USAccidents2016--2023/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+SQL queries to inspect and perform quality checks [here](https://github.com/GaryYan28/US-Car-Accidents-2016--2023/blob/main/Cleaning.sql)
+
+Targeted SQL queries to find info [here](https://github.com/GaryYan28/US-Car-Accidents-2016--2023/blob/main/Insights.sql)
+
 ## Data Structure
 
 The dataset consists of one table with about 7.7 million records.
